@@ -1,0 +1,5 @@
+/* Your custom component container wrapper */
+.rootContainer {
+  background-color: transparent; /* Cooperate with Magic Mirror backdrop */
+  padding: 15px;
+}
